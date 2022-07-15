@@ -17,4 +17,3 @@ function convertBinaryToDecimal (number){
 let decimalResults = convertBinaryToDecimal(binaryNumber);
 console.log(decimalResults);
 
-
